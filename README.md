@@ -8,4 +8,4 @@ Pktgen-DPDK
 
 **Sounds like 'Packet-Gen'**
 
-Keith Wiles @ Wind River Systems
+Keith Wiles @ Intel
