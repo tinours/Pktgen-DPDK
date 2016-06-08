@@ -1,11 +1,10 @@
-Pktgen-DPDK
+Pktgen-SipRtp-DPDK
 =====================================
 
-**The latest version is located on dpdk.org at http://dpdk.org/download**
+See Pktgen-DPDK for reference to the original Pktgen-DPDK software.
 =========================================================================
+**Pktgen-SipRtp is a fork of Pktgen-DPDK to simulate a lot of SIP and RTP traffic.**
 
-**Pktgen is a traffic generator powered by Intel's DPDK at 10Gbit wire rate traffic with 64 byte frames.**
+David Bergeron "tinours+pktgenAtgmailDotcom"
 
-**Sounds like 'Packet-Gen'**
 
-Keith Wiles @ Intel
